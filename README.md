@@ -13,4 +13,4 @@ Follow on screen instructions to reset or bypass your Windows password.
 ![1](http://stalkers.pk/blog/wp-content/uploads/2018/07/Windows-10-x64-2018-07-15-12-08-40.png)
 
 ### Download
-[Download ISO from Releases](https://github.com/StalkersSecurity/StalkersPassResetter/leases)
+[Download ISO from Releases](https://github.com/StalkersSecurity/StalkersPassResetter/releases)
